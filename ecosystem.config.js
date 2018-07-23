@@ -12,6 +12,7 @@ module.exports = {
 
   deploy : {
     production : {
+      key: "/root/deploy-key.pem",
       user: 'root',
       host: '159.65.46.80',
       ref : 'origin/master',
