@@ -1,0 +1,11 @@
+{
+  "name": "bbx-pm2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bbxgarage/bbx-pm2",
+  "author": "Lucas Fontes Gaspareto <lucasfontesgaspareto@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
